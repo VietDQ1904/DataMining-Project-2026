@@ -4,3 +4,4 @@
 *.jpg
 *.parquet
 /source/train
+/source/model/catboost_info
