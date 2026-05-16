@@ -5,3 +5,8 @@
 *.parquet
 /source/train
 /source/model/catboost_info
+/source/MaliciousPhish
+/source/rule_analysis
+*.csv
+*.pkl
+*.ini
