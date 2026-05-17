@@ -39,20 +39,20 @@ source
 │   └───test
 │           test.ipynb
 │
-├───CybersecurityIntrusion
-│   │
-│   │
-│   ├───features
-│   │       features.ipynb
-│   │
-│   ├───notebook
-│   │       eda1.ipynb
-│   │
-│   ├───preprocess
-│   │       preprocess.ipynb
-│   │
-│   ├───rules
-│   │       rules.ipynb
-│   │       rules2.ipynb
-│   │       rules3.ipynb
-│   │       rules4.ipynb
+└───CybersecurityIntrusion
+    │
+    │
+    ├───features
+    │       features.ipynb
+    │
+    ├───notebook
+    │       eda1.ipynb
+    │
+    ├───preprocess
+    │       preprocess.ipynb
+    │
+    ├───rules
+    │       rules.ipynb
+    │       rules2.ipynb
+    │       rules3.ipynb
+    │       rules4.ipynb
