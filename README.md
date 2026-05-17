@@ -8,51 +8,18 @@
 
 ### 3. Cấu trúc thư mục đề tài 
 
-source
-├───AndroidMalware
-│   ├───clustering
-│   │       clustering.ipynb
-│   │
-│   ├───data_processed
-│   │       cleaned_data.parquet
-│   │       x_test.parquet
-│   │       x_train.parquet
-│   │       x_val.parquet
-│   │       y_test.parquet
-│   │       y_train.parquet
-│   │       y_val.parquet
-│   │
-│   ├───data_splitting
-│   │       data_splitting.ipynb
-│   │
-│   ├───eda
-│   │       eda.ipynb
-│   │
-│   ├───features
-│   │       features.ipynb
-│   │
-│   ├───model
-│   │       model.ipynb
-│   ├───preprocess
-│   │       preprocess.ipynb
-│   │
-│   └───test
-│           test.ipynb
-│
-└───CybersecurityIntrusion
-    │
-    │
-    ├───features
-    │       features.ipynb
-    │
-    ├───notebook
-    │       eda1.ipynb
-    │
-    ├───preprocess
-    │       preprocess.ipynb
-    │
-    ├───rules
-    │       rules.ipynb
-    │       rules2.ipynb
-    │       rules3.ipynb
-    │       rules4.ipynb
+.gitignore
+README.md
+source/AndroidMalware/clustering/clustering.ipynb
+source/AndroidMalware/data_splitting/data_splitting.ipynb
+source/AndroidMalware/eda/eda.ipynb
+source/AndroidMalware/features/features.ipynb
+source/AndroidMalware/model/model.ipynb
+source/AndroidMalware/preprocess/preprocess.ipynb
+source/AndroidMalware/test/test.ipynb
+source/CybersecurityIntrusion/features/features.ipynb
+source/CybersecurityIntrusion/notebook/eda1.ipynb
+source/CybersecurityIntrusion/preprocess/preprocess.ipynb
+source/CybersecurityIntrusion/rules/rules1.ipynb
+source/CybersecurityIntrusion/rules/rules2.ipynb
+source/CybersecurityIntrusion/rules/rules3.ipynb
