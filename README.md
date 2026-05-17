@@ -7,19 +7,18 @@
 - Dataset Cybersecurity Intrusion: https://www.kaggle.com/datasets/dnkumars/cybersecurity-intrusion-detection-dataset
 
 ### 3. Cấu trúc thư mục đề tài 
-
-.gitignore
-README.md
-source/AndroidMalware/clustering/clustering.ipynb
-source/AndroidMalware/data_splitting/data_splitting.ipynb
-source/AndroidMalware/eda/eda.ipynb
-source/AndroidMalware/features/features.ipynb
-source/AndroidMalware/model/model.ipynb
-source/AndroidMalware/preprocess/preprocess.ipynb
-source/AndroidMalware/test/test.ipynb
-source/CybersecurityIntrusion/features/features.ipynb
-source/CybersecurityIntrusion/notebook/eda1.ipynb
-source/CybersecurityIntrusion/preprocess/preprocess.ipynb
-source/CybersecurityIntrusion/rules/rules1.ipynb
-source/CybersecurityIntrusion/rules/rules2.ipynb
-source/CybersecurityIntrusion/rules/rules3.ipynb
+- .gitignore
+- README.md
+- source/AndroidMalware/clustering/clustering.ipynb
+- source/AndroidMalware/data_splitting/data_splitting.ipynb
+- source/AndroidMalware/eda/eda.ipynb
+- source/AndroidMalware/features/features.ipynb
+- source/AndroidMalware/model/model.ipynb
+- source/AndroidMalware/preprocess/preprocess.ipynb
+- source/AndroidMalware/test/test.ipynb
+- source/CybersecurityIntrusion/features/features.ipynb
+- source/CybersecurityIntrusion/notebook/eda1.ipynb
+- source/CybersecurityIntrusion/preprocess/preprocess.ipynb
+- source/CybersecurityIntrusion/rules/rules1.ipynb
+- source/CybersecurityIntrusion/rules/rules2.ipynb
+- source/CybersecurityIntrusion/rules/rules3.ipynb
